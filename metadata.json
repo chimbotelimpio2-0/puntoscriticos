@@ -1,0 +1,6 @@
+{
+  "name": "Caza-Puntos Críticos 2.0 | Vigilancia y Derecho Ambiental",
+  "description": "Plataforma ciudadana y jurídica de vigilancia ambiental, reporte de puntos críticos de residuos sólidos en Chimbote y Nuevo Chimbote, asistente ambiental CazaBot con IA Gemini, simulador Ciudad del Futuro y Reto Jurídico Ambiental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
